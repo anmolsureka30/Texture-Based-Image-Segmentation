@@ -1,2 +1,10 @@
 venv/
+.venv/
 .DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/eurosat/
+data/collage/
+*.npy
+.streamlit/
