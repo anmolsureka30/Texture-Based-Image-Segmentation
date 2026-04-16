@@ -8,3 +8,4 @@ data/eurosat/
 data/collage/
 *.npy
 .streamlit/
+main.ipynb.backup
