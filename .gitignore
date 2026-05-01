@@ -9,3 +9,5 @@ data/collage/
 *.npy
 .streamlit/
 main.ipynb.backup
+
+CLAUDE.md
