@@ -10,4 +10,9 @@ data/collage/
 .streamlit/
 main.ipynb.backup
 
+# Project-internal context and scratch files — not for the repo
 CLAUDE.md
+report.tex
+extract_ast.py
+main.py
+memory/
