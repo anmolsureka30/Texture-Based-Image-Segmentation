@@ -16,3 +16,4 @@ report.tex
 extract_ast.py
 main.py
 memory/
+.claude/
