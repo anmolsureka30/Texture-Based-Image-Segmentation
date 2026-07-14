@@ -17,3 +17,11 @@ extract_ast.py
 main.py
 memory/
 .claude/
+
+# Personal defender's guide — helper files, kept local
+Guide.tex
+Guide.pdf
+Guide.aux
+Guide.toc
+Guide.out
+Guide.log
